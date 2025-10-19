@@ -23,15 +23,20 @@ Video 2 – HTML5 from Scratch: https://youtu.be/FGSbFQVd1k0
 Video 3 – SEO & Accessibility: https://youtu.be/FGSbFQVd1k0
 
 🚀 Quick start
+
 # clone
-git clone https://github.com/IADev-Channel/css-exercise.git
+
+git clone https://github.com/IADev-Channel/Video-4---CSS-Mastery-Past-Present-Future-Hands-On-Exercise-.git
 cd css-exercise
 
 # open
+
 # just open index.html in your browser or use any static server:
+
 npx serve .
 
 🗂 Structure
+
 ```
 /index.html
 /assets/
